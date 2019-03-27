@@ -1,7 +1,15 @@
+/* font-family: 'Permanent Marker', cursive; */
+
 #story {
   display: none;
 }
 
 .form-box {
   padding: 16px;
+}
+
+#secret {
+  font-size: 100px;
+  color: red;
+  font-family: 'Permanent Marker', cursive;
 }
